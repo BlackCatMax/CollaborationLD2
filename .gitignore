@@ -161,6 +161,3 @@ Plugins/Developer/*
 Plugins/*/Build/
 Plugins/AutoSizeComments/ASCCache/*
 Plugins/BlueprintAssist/NodeSizeCache/*
-Saved/AutoScreenshot.png
-*.log
-Saved/Config
