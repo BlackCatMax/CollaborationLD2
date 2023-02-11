@@ -164,3 +164,4 @@ Plugins/BlueprintAssist/NodeSizeCache/*
 Saved/AutoScreenshot.png
 *.log
 Saved/Config
+Intermediate/CachedAssetRegistry.bin
